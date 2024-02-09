@@ -14,6 +14,9 @@ Extracting Information: We'll use a tool like "plumberpdf" to extract the layout
 
 Exploratory Data Analysis (EDA): Once we have the layout information, we'll analyze it to understand the patterns and structures present in the documents.
 
-Data Cleaning and Preparation: Before applying any clustering algorithms, it's essential to clean and prepare the data. This involves removing any noise or irrelevant information that might interfere with the clustering process.
+Data Cleaning and Preparation: Before applying any clustering algorithms, it's essential to clean and prepare the data. This involves removing any noise or irrelevant information that might interfere with the clustering process and factorized text with coordinate.
 
 Clustering Using K-means Algorithm: We'll employ the K-means algorithm, a popular method for clustering data. By utilizing the Euclidean distance similarity metric, we can group similar documents together based on their layout patterns.
+
+Reference : [Click here for more information](https://www.researchgate.net/publication/324794105_Document_Clustering_Based_On_Text_Mining_K-Means_Algorithm_Using_Euclidean_Distance_Similarity)
+
