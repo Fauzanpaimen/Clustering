@@ -20,3 +20,5 @@ Clustering Using K-means Algorithm: We'll employ the K-means algorithm, a popula
 
 Reference : [Click here for more information](https://www.researchgate.net/publication/324794105_Document_Clustering_Based_On_Text_Mining_K-Means_Algorithm_Using_Euclidean_Distance_Similarity)
 
+Concept : [Click here for more information](https://www.canva.com/design/DAF8WJlUKlk/ZVmdMDs8gLG-HhE18AHaGQ/view?utm_content=DAF8WJlUKlk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
