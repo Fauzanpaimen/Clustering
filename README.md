@@ -10,7 +10,7 @@ Imagine having a stack of PDFs with similar layout structures, but you need to o
 
 Approach
 
-Extracting Information: We'll use a tool like "plumberpdf" to extract the layout information from PDFs. This library is handy because it can also provide us with coordinates for each text element, aiding in understanding the layout.
+Extracting Information: We'll use a library "pdfplumber" to extract the layout information from PDFs. This library is handy because it can also provide us with coordinates for each text element, aiding in understanding the layout.
 
 Exploratory Data Analysis (EDA): Once we have the layout information, we'll analyze it to understand the patterns and structures present in the documents.
 
