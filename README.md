@@ -12,7 +12,7 @@ Approach
 
 Extracting Information: We'll use a library "pdfplumber" to extract the layout information from PDFs. This library is handy because it can also provide us with coordinates for each text element, aiding in understanding the layout.
 
-Exploratory Data Analysis (EDA): Once we have the layout information, we'll analyze it to understand the patterns and structures present in the documents.
+Exploratory Data Analysis (EDA): Once we have the layout information, we'll analyze it to understand the patterns and structures present in the documents. EDA : [Click here](https://github.com/Fauzanpaimen/Exploratory-Data-Analysis-Document-Clustering)
 
 Data Cleaning and Preparation: Before applying any clustering algorithms, it's essential to clean and prepare the data. This involves removing any noise or irrelevant information that might interfere with the clustering process and factorized text with coordinate.
 
